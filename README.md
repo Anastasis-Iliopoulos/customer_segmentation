@@ -5,6 +5,8 @@ Customer segmentation with KMeans clustering employing MLFlow.
 
 ---
 
+> **Important Note:** Make sure that the `Data.zip` file is unzipped.
+
 ## **Files**
 ```bash
 .
